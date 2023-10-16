@@ -1,2 +1,2 @@
 #!/bin/bash
-gret root /etc/root
+grep root /etc/root
